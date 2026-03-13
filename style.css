@@ -1,0 +1,43 @@
+body {
+    background-color: #1b5e20;
+    font-family: Verdana;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    color: white;
+    font-size: 40px;
+}
+
+h2 {
+color: #a5d6a7;
+}
+
+p {
+    margin: auto;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+.Banner2 {
+    width: 427px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.Logo {
+    width: 400px;
+    margin: 20px;
+    border-radius: 0px;
+}
+
+img {
+    width: 400px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+ul {
+    font-size: 18px;
+}
